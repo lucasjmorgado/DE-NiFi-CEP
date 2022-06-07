@@ -19,6 +19,11 @@ Link to download [Docker Compose](https://github.com/lucasjmorgado/DE-NiFi-CEP/b
 
 Link to download [SQL Create table and insert data](https://github.com/lucasjmorgado/DE-NiFi-CEP/blob/main/create.sql)
 
+PostgreSQL Connection
+- Host 0.0.0.0
+- Port 5432
+- User postgres
+- Password Postgres2020!
 # NiFi Pipeline
 
 Link to download [Nifi Template](https://github.com/lucasjmorgado/DE-NiFi-CEP/blob/main/data_enhance_final.xml)
@@ -38,6 +43,10 @@ Link to download [Nifi Template](https://github.com/lucasjmorgado/DE-NiFi-CEP/bl
 The image bellow shows the gender column(sexo) and address columns(logradouro, bairro, localidade, uf) filled with data gathered from the api, only the columns numero and complemento are null because the api can't fill this information.
 
 ![image](https://user-images.githubusercontent.com/84144559/172466236-4460504d-6fab-4114-b73a-41d6957ab3e5.png)
+
+### Reference
+
+https://medium.com/data-hackers/construindo-um-pipeline-de-dados-com-nifi-kafka-e-s3-parte-1-2-d7e4a9aeb136
 
 
 

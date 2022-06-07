@@ -17,6 +17,8 @@ The api's I used:
 
 Link to download [Docker Compose](https://github.com/lucasjmorgado/DE-NiFi-CEP/blob/main/docker_compose.yml) file
 
+Link to download [SQL Create table and insert data](https://github.com/lucasjmorgado/DE-NiFi-CEP/blob/main/create.sql)
+
 # NiFi Pipeline
 
 Link to download [Nifi Template](https://github.com/lucasjmorgado/DE-NiFi-CEP/blob/main/data_enhance_final.xml)
